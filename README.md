@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABKB1BALOCH or majeed Baloch 
+- 👋 Hi, I’m @ABKB1BALOCH
 - 👀 I’m interested in ... programming tools
 - 🌱 I’m currently learning ... basic coding 
 - 💞️ I’m looking to collaborate on ... creating strong tool that help people to avoid scammer 
